@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10000&color=82AAFF&&size=28&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 <div align="center">  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10000&color=82AAFF&size=25&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Thais-lara&show_icons=true&count_private=true&hide_border=true&title_color=82aaff&icon_color=89ddff&text_color=27e8a7&bg_color=1C202B" alt="Thais-Lara github stats" /> 
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais-Lara&layout=compact&hide_border=true&title_color=82aaff&text_color=27e8a7&bg_color=1C202B" />
 </div>
