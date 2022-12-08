@@ -24,5 +24,6 @@
   
   <a href="https://www.linkedin.com/in/thaislarac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaiscostalara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-A81B1B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  <a href = "https://replit.com/@ThaisLara1"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
+ <a href = "https://scratch.mit.edu/users/ThaisCL/"> <img height="28" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/1024px-Scratchlogo.svg.png" target="_blank"></a>
 </div>
