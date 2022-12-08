@@ -1,7 +1,7 @@
 <div align="center">  
   <h2><b>Hi there! 👋</b></h2>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thais-lara&show_icons=true&count_private=true&hide_border=true&title_color=82aaff&icon_color=89ddff&text_color=27e8a7&bg_color=2A3042" alt="Thais-Lara github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais-Lara&layout=compact&hide_border=true&title_color=82aaff&text_color=27e8a7&bg_color=2A3042" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thais-lara&show_icons=true&count_private=true&hide_border=true&title_color=82aaff&icon_color=89ddff&text_color=27e8a7&bg_color=1C202B" alt="Thais-Lara github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais-Lara&layout=compact&hide_border=true&title_color=82aaff&text_color=27e8a7&bg_color=1C202B" />
 </div>
 
   
