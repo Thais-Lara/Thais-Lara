@@ -43,5 +43,18 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   </a>
 </div>
+<br>
+<div align="center">
+  
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Thais-Lara&&theme=tokyonight&show_icons=true&hide=contribs,prs&count_private=true)
+
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thais-Lara&theme=tokyonight&langs_count=8&count_private=true" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=500 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thais-Lara&theme=tokyonight&layout=donut-vertical&count_private=true" />
+</a>
+
+</div>
 
 
